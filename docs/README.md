@@ -7,7 +7,3 @@
 スイスに留学するもコロナの影響で帰国。  
 趣味は読書と散歩とコーヒー。  
 最近、Atcoderを始めたのでとりあえず茶色になりたい。
-
-::: slot footer
-Here is some contact info
-:::
